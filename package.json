@@ -5,7 +5,7 @@
   "alva": {
     "name": "Feather",
     "color": "#0066ff",
-    "image": "https://media.meetalva.io/library/feather-icons/image.jpg"
+    "image": "https://media.meetalva.io/library/feather-icons/image.svg"
   },
   "main": "lib/index.js",
   "files": [
