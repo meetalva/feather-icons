@@ -1,10 +1,10 @@
 {
   "name": "@meetalva/feather-icons",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Simply beautiful open source icons made by @colebemis",
   "alva": {
     "name": "Feather",
-    "color": "#0066ff",
+    "color": "#3863A3",
     "image": "https://media.meetalva.io/library/feather-icons/image.svg"
   },
   "main": "lib/index.js",
